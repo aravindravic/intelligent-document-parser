@@ -1,0 +1,113 @@
+,rec_id,table_rec_id,table_id,row_id,cell_id,content_type,cell_text,image_loc,ai_gen_image_desc
+0,b376d5e9-bb86-4545-80ca-54dd4309c72f,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,1,Text,Bird Name,,
+1,16f3ca7b-e9cb-4acd-ad6d-1a0ed5a43ff2,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,2,Text,Images,,
+2,60bc3e85-8a86-406f-bc95-f986916c9395,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,3,Text,Common Colors,,
+3,6f2e092e-5f39-4b9c-9555-61e1314168ac,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,4,Text,Preferred Food,,
+4,637eab3b-189f-4c8e-82c7-93f3d7b9802e,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,5,Text,Nesting Habits,,
+5,146d7c25-b57e-4cf7-bd66-039dd484f2f0,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,1,6,Text,Similar Species,,
+6,deb4623c-8250-4952-a1f6-0dbb1cef42e3,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,1,Text,American Robin,,
+7,b168fed8-5fc5-4091-a968-a103fab4bfd1,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,2,Image,No Alt Text,extracted_image_rId6.jpg,"The image depicts a detailed illustration of a robin perched on a textured branch, with a nest in the background and lush green leaves surrounding it."
+8,4581d1b0-5dd3-4d4b-8387-5b70885c228e,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,3,Text,"Grayish-brown back, reddish-orange breast",,
+9,1c04109e-db86-4ee5-9c14-629b47e32a6e,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,4,Text,"Earthworms, insects, berries",,
+10,716a2c3b-f6d6-4893-86ec-13d154a51097,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,5,Text,Cup-shaped nests in trees or shrubs,,
+11,4ad2a9b4-0875-48bb-a87c-b8646bc4745f,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,2,6,Text,"Wood Thrush (differences in markings, song)",,
+12,c0faf172-cf39-47ca-8c70-2fa472f3cac4,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,1,Text,Northern Cardinal,,
+13,d2e15bee-3943-467f-96da-576160b7123a,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,2,Image,No Alt Text,extracted_image_rId7.jpg,"The image features a vibrant red cardinal perched on a branch amidst lush green leaves and colorful berries, with a nest nearby."
+14,a738c14a-6b2f-446a-a61d-64a316721cb5,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,3,Text,Male: bright red; Female: reddish-brown,,
+15,a6da682d-aff5-4b68-9411-64f16cd2bb43,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,4,Text,"Seeds, fruits, insects",,
+16,e5147829-9868-45e3-b032-69cd5ad350b0,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,5,Text,Cup-shaped nests in dense shrubs,,
+17,6ba7aaf5-369a-41e3-b783-60561fd336d5,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,3,6,Text,Pyrrhuloxia (slightly different beak shape and coloration),,
+18,b59bf632-4540-40aa-9240-ded07a3965ea,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,1,Text,Black-capped Chickadee,,
+19,87e1a2aa-93b8-4f73-b338-d0b4fba45173,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,2,Image,No Alt Text,extracted_image_rId8.jpg,"The image depicts a serene garden scene with a bird perched on a bird feeder filled with seeds, surrounded by lush greenery, colorful flowers, and a large tree with natural hollows."
+20,06e71276-04bc-4a38-b0da-5c23b3da4922,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,3,Text,"Black cap and bib, white cheeks, gray back",,
+21,f52e6ec1-765b-4ec4-bcdf-ca467d9892ee,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,4,Text,"Insects, seeds, berries",,
+22,194ee567-e6a1-4ec1-9bd9-051870674795,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,5,Text,"Cavity nester, tree holes",,
+23,f5db0613-ee16-423e-9319-0809ee2ef0e9,ed324ea3-1409-47e1-bab8-3fd97fba6b9d,1,4,6,Text,Carolina Chickadee (subtle differences in song and range),,
+24,fb419a24-ac0f-4417-88c7-fe3f6c025eac,4d9f0540-5738-49d8-b957-655f4575f478,2,1,1,Text,Habitat Feature,,
+25,d8b61489-a1ef-4337-8769-d4e0499afce3,4d9f0540-5738-49d8-b957-655f4575f478,2,1,2,Text,Description,,
+26,985eb1f4-dd50-4f56-8c9b-9bb92c80f343,4d9f0540-5738-49d8-b957-655f4575f478,2,1,3,Text,Sample Images,,
+27,4c68bf2a-2935-4c67-94f6-282b894dcc79,4d9f0540-5738-49d8-b957-655f4575f478,2,2,1,Text,Trees and Shrubs,,
+28,72a350f7-d9a1-4e59-96d1-2b71953ff73b,4d9f0540-5738-49d8-b957-655f4575f478,2,2,2,Text,"Provide shelter, nesting sites, and food sources. Choose native species for optimal support.",,
+29,9b264a53-0ff4-40e2-b666-9b192f123649,4d9f0540-5738-49d8-b957-655f4575f478,2,2,3,Image,No Alt Text,extracted_image_rId9.jpg,"The image depicts a vibrant, lush forest filled with a variety of colorful birds perched on branches and flitting through the trees amidst a rich backdrop of greenery and flora."
+30,11150032-cd87-4f8f-9382-a9500dc750dc,4d9f0540-5738-49d8-b957-655f4575f478,2,3,1,Text,Bird Baths,,
+31,9d89dad7-e28e-4e25-8dd6-ac8c7c687c4c,4d9f0540-5738-49d8-b957-655f4575f478,2,3,2,Text,Offer a water source for drinking and bathing. Ensure it’s shallow and regularly cleaned.,,
+32,24e4fce9-91bc-4467-94ec-3f6d2816423b,4d9f0540-5738-49d8-b957-655f4575f478,2,3,3,Image,No Alt Text,extracted_image_rId10.jpg,The image depicts a vibrant garden scene with a decorative birdbath surrounded by colorful flowers and several small birds bathing and playing in the water.
+33,3dbb1755-efdb-48fd-a625-b661ad018d50,4d9f0540-5738-49d8-b957-655f4575f478,2,4,1,Text,Native Plants,,
+34,74790a99-3b7c-4f46-8683-c1d46ed4c098,4d9f0540-5738-49d8-b957-655f4575f478,2,4,2,Text,"Attract insects and offer natural food sources like berries, seeds, and nectar.",,
+35,d16e2e4e-d472-4409-b0e9-37e7d66cc272,4d9f0540-5738-49d8-b957-655f4575f478,2,4,3,Image,No Alt Text,extracted_image_rId11.jpg,"The image depicts a vibrant and lush garden filled with a variety of colorful flowers, butterflies, and birds, set against a backdrop of trees and mountains under a bright sky."
+36,c73e1d43-dfd6-4faf-a0eb-8d4aaaf12b32,4d9f0540-5738-49d8-b957-655f4575f478,2,5,1,Text,Brush Piles,,
+37,1c84fba4-b1d5-455c-a9be-000edff73850,4d9f0540-5738-49d8-b957-655f4575f478,2,5,2,Text,Provide cover and nesting sites. Offer a safe place for birds to forage and hide.,,
+38,060a8661-28ab-4e84-aa9d-58740d5976eb,4d9f0540-5738-49d8-b957-655f4575f478,2,5,3,Image,No Alt Text,extracted_image_rId12.jpg,"The image depicts a vibrant, sunlit forest clearing where various birds are perched on a large, intricately woven nest surrounded by colorful flowers and lush greenery."
+39,73c20bf1-e309-4146-aa90-0fb41ca46192,4d9f0540-5738-49d8-b957-655f4575f478,2,6,1,Text,Nesting Boxes,,
+40,57997198-0005-43c9-a4f8-d03c74d5909a,4d9f0540-5738-49d8-b957-655f4575f478,2,6,2,Text,"Provide safe places for birds to build their nests, particularly in areas with fewer natural cavities.",,
+41,7831151e-f360-49ca-93e3-fca887ce1a34,4d9f0540-5738-49d8-b957-655f4575f478,2,6,3,Image,No Alt Text,extracted_image_rId13.jpg,"The image depicts a beautifully crafted wooden birdhouse adorned with intricate designs, nestled among lush green foliage and colorful flowers, with a bird perched nearby."
+42,38df9e98-13c5-45bb-803f-bb1a3487701e,4d9f0540-5738-49d8-b957-655f4575f478,2,7,1,Text,Wildflower Meadows,,
+43,b358b270-8ad7-4a75-862d-ba8cf1094f88,4d9f0540-5738-49d8-b957-655f4575f478,2,7,2,Text,"Attract pollinators and seed-eating birds, offering both food and shelter.",,
+44,eab698a2-fda7-4106-8bb3-5be1346169ee,4d9f0540-5738-49d8-b957-655f4575f478,2,7,3,Image,No Alt Text,extracted_image_rId14.jpg,"The image depicts a vibrant and colorful meadow filled with a diverse array of flowers under a bright blue sky, while birds soar overhead amidst lush green trees and distant mountains."
+45,2f20fd42-68cd-491f-b80b-c95be20034f4,4d9f0540-5738-49d8-b957-655f4575f478,2,8,1,Text,Hedges and Fences,,
+46,e9d2ec4f-58a7-487d-8285-2f4b5b295a60,4d9f0540-5738-49d8-b957-655f4575f478,2,8,2,Text,Offer protective cover from predators and a space for birds to travel safely.,,
+47,0a33ee61-f02e-46bf-a6f1-d679a440f2e0,4d9f0540-5738-49d8-b957-655f4575f478,2,8,3,Image,No Alt Text,extracted_image_rId15.jpg,"The image depicts a tranquil, lush forest scene filled with various birds perched on trees and branches, surrounded by dense greenery and rounded, sculpted bushes, suggesting a peaceful natural habitat."
+48,67e9e424-613b-4406-9215-b7627cb3efd5,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,1,1,Text,Type of Feeder,,
+49,f323e180-6e7b-4494-82dd-321f75e0442d,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,1,2,Text,Description,,
+50,33dc841d-dd61-4e0b-81a1-bcbbf57e4b7e,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,1,3,Text,Best For,,
+51,62099295-0e18-4cd6-93f3-d690f111fbb9,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,1,4,Text,Sample Images,,
+52,1ee15a05-8d8e-495b-922e-9d77507e4693,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,2,1,Text,Tube Feeder,,
+53,d69323af-1aac-455c-9ad4-9b33276bad0f,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,2,2,Text,"Long, narrow feeders with multiple feeding ports. Often used for small seeds.",,
+54,08441117-ed33-421a-b588-d009f437a0b8,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,2,3,Text,"Finches, chickadees, and sparrows.",,
+55,b7085e26-e80b-4edb-90c2-ed5ebfa18c8d,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,2,4,Image,No Alt Text,extracted_image_rId16.jpg,"The image depicts a vibrant bird feeder surrounded by various colorful birds, set against a lush, sunlit woodland backdrop."
+56,cdeb0869-4366-4cdb-ace4-46157958392d,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,3,1,Text,Hopper Feeder,,
+57,029efa31-4a55-452f-b0b3-1a1524b5b098,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,3,2,Text,Tray-style feeders with a roof to protect seeds from the elements.,,
+58,5f3ccd2f-c395-4b13-affc-33549934f74d,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,3,3,Text,"Cardinals, jays, woodpeckers, and nuthatches.",,
+59,51dea14a-b0a5-4643-ad3e-f3f3f6e7d7a9,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,3,4,Image,No Alt Text,extracted_image_rId17.jpg,"The image depicts a vibrant garden scene with a wooden bird feeder surrounded by various colorful birds, including cardinals, blue jays, and finches, amidst blooming flowers."
+60,af97194c-00b8-468d-b990-7e84a21384c1,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,4,1,Text,Suet Feeder,,
+61,6eed33d5-40d5-4571-bff1-1e66b69084c9,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,4,2,Text,"Typically a mesh bag or cage holding suet cakes, which provide high-energy food.",,
+62,5722ab04-e15e-461c-976e-c8fb78597d9f,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,4,3,Text,"Woodpeckers, wrens, and titmice.",,
+63,674197bc-78d7-469b-a42f-ca020815788e,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,4,4,Image,No Alt Text,extracted_image_rId18.jpg,"The image captures several woodpeckers feeding from a hanging bird feeder filled with crunchy snacks, surrounded by lush green foliage."
+64,34552a21-bc33-4445-ac73-e43abd5aa207,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,5,1,Text,Platform Feeder,,
+65,256a0689-ba57-4711-bc9b-60057daa3318,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,5,2,Text,"Open, flat feeders that allow a variety of birds to feed simultaneously.",,
+66,26ad19bc-2c4a-4ef8-bda9-a475fe80142f,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,5,3,Text,"Doves, sparrows, juncos, and ground-feeding birds.",,
+67,8cf9f0bd-89b5-4fdd-887e-0b850cc6a7b4,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,5,4,Image,No Alt Text,extracted_image_rId19.jpg,"The image depicts a serene garden scene with various birds gathered around a circular feeder filled with seeds, illuminated by soft rays of sunlight filtering through lush greenery."
+68,7a86603d-715b-4963-8289-d2ca6ec9b7ac,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,6,1,Text,Nyjer Feeder,,
+69,fe2a598c-8a70-4b48-8ec5-f76df1c6cf1d,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,6,2,Text,Specialized feeders designed for small seeds like thistle or nyjer.,,
+70,bc8fa905-74ee-4ada-a093-39952bf21efc,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,6,3,Text,Finches (especially American goldfinch).,,
+71,b754c055-2e70-40bb-a170-e0248a67f783,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,6,4,Image,No Alt Text,extracted_image_rId20.jpg,"The image shows a group of vibrant birds gathered around a transparent bird feeder filled with seeds, perched on a tree branch in a lush green setting."
+72,b7891b11-5f1e-4eba-a2f3-78430a1b8624,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,7,1,Text,Window Feeder,,
+73,65057e90-fb3a-4d56-8bd8-d53d9d1425b5,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,7,2,Text,A small feeder that attaches directly to a window for close-up views.,,
+74,a2e2c7ac-2229-4c35-acb1-880b8dee3d04,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,7,3,Text,"Suited for all species, particularly those that prefer seed at eye-level.",,
+75,db5a5c9d-d491-450c-8701-411ca00a66f3,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,7,4,Image,No Alt Text,extracted_image_rId21.jpg,The image features a hand holding birdseed in front of a beautifully illustrated scene showing various birds gathered around a hanging bird feeder amidst floral decorations.
+76,9a1178d5-a3fc-4b98-9307-812475097512,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,8,1,Text,Ground Feeder,,
+77,c08406a6-cffa-4c87-928a-8eaf9654bf4b,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,8,2,Text,"A simple tray placed on the ground, often with seed scattered or placed in a shallow dish.",,
+78,b6e6183a-0d36-47b5-81d2-3ae415555a9a,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,8,3,Text,"Ground-feeding birds like juncos, towhees, and robins.",,
+79,a812cc72-0264-4100-bdc6-4f0b0232d6f1,298f706f-5dbf-4fed-98db-e3dc7acc1d6a,3,8,4,Image,No Alt Text,extracted_image_rId22.jpg,"The image depicts a variety of birds gathered around a bird feeder filled with seeds, set in a softly lit natural environment."
+80,1e702be0-a5a6-488f-9888-51af6cae05db,78e17702-e762-436f-807f-e2ad2f70e2af,4,1,1,Text,Birdseed,,
+81,1b582788-747d-4497-a71e-a9ebb2200ab0,78e17702-e762-436f-807f-e2ad2f70e2af,4,1,2,Text,Best For,,
+82,88750709-dd08-45ed-805f-22c604f62f2a,78e17702-e762-436f-807f-e2ad2f70e2af,4,1,3,Text,Sample Images,,
+83,f8892a7b-aea4-4656-9507-8ec2b4b4fed0,78e17702-e762-436f-807f-e2ad2f70e2af,4,2,1,Text,Black Oil Sunflower Seeds,,
+84,0d0caa33-877f-4971-a32f-a39203dc86ce,78e17702-e762-436f-807f-e2ad2f70e2af,4,2,2,Text,"Cardinals, chickadees, finches, titmice, and woodpeckers.",,
+85,c01437e8-67fd-40f5-9a48-4755e31e10d5,78e17702-e762-436f-807f-e2ad2f70e2af,4,2,3,Image,No Alt Text,extracted_image_rId23.jpg,"The image depicts a vibrant scene of various colorful birds gathered around a seed feeder amidst lush greenery, creating a lively and cheerful atmosphere in nature."
+86,4f2f5b1d-9543-4a87-babe-3c17942866ce,78e17702-e762-436f-807f-e2ad2f70e2af,4,3,1,Text,Nyjer (Thistle) Seed,,
+87,e3a00068-a65c-4e75-816d-a7d512d9c20a,78e17702-e762-436f-807f-e2ad2f70e2af,4,3,2,Text,"Goldfinches, purple finches, redpolls, and siskins.",,
+88,759dc53f-95f3-4b75-921c-cfa9d31ba90b,78e17702-e762-436f-807f-e2ad2f70e2af,4,3,3,Image,No Alt Text,extracted_image_rId24.jpg,"The image depicts a vibrant scene of various birds, including goldfinches, gathered around a sunflower seed feeder in a lush, natural setting."
+89,f080a8bf-caf9-4e14-a305-d23783765ae6,78e17702-e762-436f-807f-e2ad2f70e2af,4,4,1,Text,Safflower Seed,,
+90,d30de4d7-033a-4fdf-9623-64656cafe00e,78e17702-e762-436f-807f-e2ad2f70e2af,4,4,2,Text,"Cardinals, grosbeaks, and nuthatches.",,
+91,9a4b2b77-23d0-4628-bead-4f4a591fd1fe,78e17702-e762-436f-807f-e2ad2f70e2af,4,4,3,Image,No Alt Text,extracted_image_rId25.jpg,"A vibrant red cardinal perches on a bird feeder filled with seeds, set against a lush, sun-drenched garden backdrop."
+92,a41c05b0-ee3c-4e04-9cc3-cdabd6aa5239,78e17702-e762-436f-807f-e2ad2f70e2af,4,5,1,Text,Suet,,
+93,759b0232-659e-43b6-910e-099081663af0,78e17702-e762-436f-807f-e2ad2f70e2af,4,5,2,Text,"Woodpeckers, nuthatches, wrens, and chickadees.",,
+94,c8316ab5-4ac5-4225-9ec2-b4e5dac059ba,78e17702-e762-436f-807f-e2ad2f70e2af,4,5,3,Image,No Alt Text,extracted_image_rId26.jpg,"A detailed illustration of a woodpecker hanging onto a bird feeder filled with seeds, set against a backdrop of lush green leaves and a serene blue sky."
+95,5997c176-663f-4fc1-8f47-fd6d3046b161,78e17702-e762-436f-807f-e2ad2f70e2af,4,6,1,Text,Millet,,
+96,23cacfe2-814b-4b12-b643-f08f5f0f4c7d,78e17702-e762-436f-807f-e2ad2f70e2af,4,6,2,Text,"Sparrows, doves, and juncos.",,
+97,5f4652b2-bdc2-4a65-9231-b0e3f45d7620,78e17702-e762-436f-807f-e2ad2f70e2af,4,6,3,Image,No Alt Text,extracted_image_rId27.jpg,"The image captures a group of sparrows feeding on scattered grains, surrounded by pebbles and greenery in the background."
+98,1788a968-fff1-418b-b884-a46e593d588a,78e17702-e762-436f-807f-e2ad2f70e2af,4,7,1,Text,Peanut Pieces,,
+99,ef3283f0-c15c-4b23-b449-734bf975508b,78e17702-e762-436f-807f-e2ad2f70e2af,4,7,2,Text,"Jays, woodpeckers, chickadees, and titmice.",,
+100,c88e2192-9201-480f-b4c8-fc872ce4ab35,78e17702-e762-436f-807f-e2ad2f70e2af,4,7,3,Image,No Alt Text,extracted_image_rId28.jpg,"A vibrant blue jay is perched near a bird feeder, pecking at peanuts while surrounded by a mix of seeds."
+101,063ce855-4a24-4190-bc46-1718407b10d9,78e17702-e762-436f-807f-e2ad2f70e2af,4,8,1,Text,Cracked Corn,,
+102,e0d697b7-e4f9-444d-b800-d97e52eca919,78e17702-e762-436f-807f-e2ad2f70e2af,4,8,2,Text,"Sparrows, doves, and quail.",,
+103,cfc6d753-2d78-40ab-829b-8b6d3731c134,78e17702-e762-436f-807f-e2ad2f70e2af,4,8,3,Image,No Alt Text,extracted_image_rId29.jpg,"The image depicts a gathering of various birds, including sparrows and white doves, foraging on a mound of corn kernels amidst lush green grass."
+104,0972cd26-f959-4c0c-99f3-67928cfb731a,6758f3e6-dde1-4015-910b-17bef86e606b,5,1,1,Text,Resource Type,,
+105,df04edef-dec2-4411-9fb6-c16f33c38edf,6758f3e6-dde1-4015-910b-17bef86e606b,5,1,2,Text,Link/Description,,
+106,187a8121-459c-4e03-9ebb-c9101da6f4fc,6758f3e6-dde1-4015-910b-17bef86e606b,5,2,1,Text,Websites,,
+107,e59f548c-7cb8-461e-893e-82be0b371178,6758f3e6-dde1-4015-910b-17bef86e606b,5,2,2,Text,NA,,
+108,b1495b58-d837-422c-80c8-7f78cc85087d,6758f3e6-dde1-4015-910b-17bef86e606b,5,3,1,Text,Local Bird Clubs,,
+109,fa3e6d4e-a7a9-4bc0-a109-5a7debb1aea0,6758f3e6-dde1-4015-910b-17bef86e606b,5,3,2,Text,Encourage readers to join birding communities for events and knowledge sharing.,,
+110,72dd8249-918a-4a05-a081-162d4dd9262c,6758f3e6-dde1-4015-910b-17bef86e606b,5,4,1,Text,Glossary of Terms,,
+111,0dc7c8a1-66c0-4eb4-b583-23492a3400de,6758f3e6-dde1-4015-910b-17bef86e606b,5,4,2,Text,"Define terms like ""molt,"" ""habitat,"" and ""range.""",,
